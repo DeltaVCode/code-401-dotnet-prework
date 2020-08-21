@@ -23,7 +23,6 @@ Below are the machine requirements for the class. Please read through them and c
 * Install the .NET Core 3.1 SDK [here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
 ![SDK Install Window](/assets/macInstallSDK.png/)
-
 ----
 
 	- [Check for latest iOS here](https://support.apple.com/en-us/HT201260#:~:text=From%20the%20Apple%20menu%20%EF%A3%BF,followed%20by%20its%20version%20number.){:target="_blank"} 
@@ -38,7 +37,7 @@ Below are the machine requirements for the class. Please read through them and c
 	- Add the [GitHub extension](https://docs.microsoft.com/en-us/visualstudio/mac/working-with-git?view=vsmac-2019){:target="_blank"}  to Visual Studio
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow){:target="_blank"} 
 	
-    - (optional) [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms){:target="_blank"}
+    - (optional) [Razorsql db manager](https://www.razorsql.com/){:target="_blank"}
 
 	- (optional) [VSCode](https://code.visualstudio.com/docs/setup/mac){:target="_blank"} 
 	
