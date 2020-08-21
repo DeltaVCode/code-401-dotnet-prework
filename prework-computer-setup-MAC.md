@@ -58,3 +58,10 @@ Below are the machine requirements for the class. Please read through them and c
 ## Submission Instructions
 To submit this assignment, please run the following commands in your powershell terminal to confirm your .NET core SDK install `dotnet --version`. Record in Canvas the version that comes up. Confirm that it is at least 3.0.
 
+
+
+
+
+# Resources for this file. 
+
+ - [Mac Install Tutorial on Git Hub](https://gist.github.com/jeremymaya/a36c1de8220d76beca85a2804a2cecc4)
