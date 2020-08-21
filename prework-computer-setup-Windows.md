@@ -1,9 +1,9 @@
-# Computer Setup
+# Computer Setup for Windows
 
 Below are the machine requirements for the class. Please read through them and confirm your machine is ready for day 1 of class.
 
-1. A Windows 10 64 bit OS is required. If you are on a Mac, you will need to either dual boot or use a Virtual Machine to run windows to complete the assignments in this class. **[Guide from former Code Fellows student](https://gist.github.com/jeremymaya/a36c1de8220d76beca85a2804a2cecc4)**
-	- Mac Users - It is recommended that you allocate approx. 80 GBs of hard-drive space, and as much RAM as you can spare (4GB min). This should cover the Windows 10 OS, Visual Studio Community(with workloads), Databases, and assignments. 
+1. A Windows 10 64 bit OS is required. 
+	 This should cover the Windows 10 OS, Visual Studio Community(with workloads), Databases, and assignments. 
 	- Make sure you have the [Fall Creator's Update](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update){:target="_blank"}  installed. 
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 	- **In theory**, Visual Studio Code can be used for .NET Core development on Mac/Linux, but **class demos will use full Visual Studio**. Deviate at your own risk.
