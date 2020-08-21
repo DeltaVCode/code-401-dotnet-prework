@@ -7,7 +7,6 @@ Below are the machine requirements for the class. Please read through them and c
 	- The Fall Creator's Update includes the Windows Subsystem for Linux. 
 	- **In theory**, Visual Studio Code can be used for .NET Core development on Mac/Linux, but **class demos will use full Visual Studio**. Deviate at your own risk.
 		 
-
 | | Pros | Cons |
 |:- |:-| :-|
 | BootCamp | <ul><li>Native Windows 10 environment on macOS devices</li></ul> | <ul><li>Needs to split hard drive space</li><li>Drivers from BootCamp are not well optimized</li><li>Trackpad's multi-touch functionality is limited</li><li>Device runs hot and battery runs out fast</li><li>Shortcut keys are configured differently</li><li>Windows 10 needs to be purcahsed</li></ul> |
@@ -20,7 +19,6 @@ Below are the machine requirements for the class. Please read through them and c
 2. Setup your Visual Studio Community Version and install .NET Core SDK
 
 ## Install Visual Studio for Mac and .NET Core 3.1 SDK
-
 * Install Visual Studio for Mac [here](https://visualstudio.microsoft.com/vs/mac/).
 * Install the .NET Core 3.1 SDK [here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
