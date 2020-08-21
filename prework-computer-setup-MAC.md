@@ -38,7 +38,7 @@ Below are the machine requirements for the class. Please read through them and c
 		- [Visual Studio Git Process](https://www.visualstudio.com/en-us/docs/git/tutorial/gitworkflow){:target="_blank"} 
 	
     - (optional) [Razorsql db manager](https://www.razorsql.com/){:target="_blank"}
-    - (optional/recommended) [Razorsql db manager](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15){:target="_blank"}
+    - (optional/recommended) [Azure db manager](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15){:target="_blank"}
 
 
 	- (optional) [VSCode](https://code.visualstudio.com/docs/setup/mac){:target="_blank"} 
